@@ -18,3 +18,6 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 $20 will help
+
+### Copyright
+CMC Works yeah
