@@ -17,7 +17,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-$20 will help
+Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 CMC Works yeah
