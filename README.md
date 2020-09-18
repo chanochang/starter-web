@@ -20,4 +20,4 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
-CMC Works yeah
+CMC Works yeah All rights reserved.
