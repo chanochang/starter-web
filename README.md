@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-CMC is the best.  Adding a line for rebasing example, then more changes from my featurebranch too.
+CMC is the best.  Doing an emergency fix after our stash.
 
 ## Introduction 
 
